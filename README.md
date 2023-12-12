@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on the detection of pneumonia from chest X-ray images using two different neural network models: a Convolutional Neural Network (CNN) and a Multilayer Perceptron (MLP). These models aim to improve the accuracy and efficiency of pneumonia detection, particularly in settings with limited access to expert radiologists.
 
+![image](https://github.com/pratheeksha11/Pneumonia_detection_using_Neural_Networks/blob/main/image.png)
+<sup><sub>Citation: OpenAI. (2023). AI-generated image of pneumonia detection using chest X-rays with neural network. OpenAI's DALL-E.</sub></sup>
+
 ## Team Members
 - Pratheeksha Nath Narikkadan
 - Sahithi Sallaram
